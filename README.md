@@ -20,7 +20,7 @@ Stokes and Navier-Stokes systems starting from the already-existing FEniCSx libr
 in the _fdaPDE_ (R/C++) library
 
 ### Skills
-R, Python, C/C++, Matlab, FreeFem, LaTeX
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,latex,matlab,py,r&theme=light)](https://skillicons.dev)
 
 ### Get in touch
 - LinkedIn: <a href="https://www.linkedin.com/in/tuonome](https://www.linkedin.com/in/davide-serra-1b2181276?">Davide Serra</a>
