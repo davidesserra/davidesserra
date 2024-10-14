@@ -24,6 +24,8 @@ depolarisation process of atrial cell membrane, atrial membrane and neuronal cel
 Stokes and Navier-Stokes systems starting from the already-existing FEniCSx library (Python)
 - Implementation of an efficient iterative algorithm for Space-Time Regression with PDE penalization to be inserted
 in the _fdaPDE_ (R/C++) library
+- Implementation of an acceleration algorithm for perfusion in the heart, using Anderson and Aitken procedures,
+to be included in the LifeX C++ library
 
 ## 💻 Skills
 
