@@ -6,7 +6,7 @@
 - 📚 Graduated in Mathematical Engineering with a focus on Numerical Analysis for PDEs, Scientific Computing and Statistics
 - 🌍 Passionate about applying mathematical and physical concepts to solve real-world problems, especially health-related ones
 - 🧠 Interested in the intersection of modeling, numerical analysis and statistics to study the field of Neuroscience
-- 👀 Always looking for new things to learn!
+- 👀 Always looking for new things to learn! And challenges are well appreciated...
 
 
 ## 🎓 Education
